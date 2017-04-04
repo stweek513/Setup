@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../includes/functions.h
+
+/home/salvatore/Desktop/Projects/Setup/Utilities/MathUtils/src/main/c++/cubic/cubic.cpp
+functions.h
+/home/salvatore/Desktop/Projects/Setup/Utilities/MathUtils/src/main/c++/cubic/functions.h
+

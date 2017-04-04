@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../includes/functions.h
+
+/home/salvatore/Desktop/Projects/Setup/exe/calc.cpp
+stdio.h
+-
+functions.h
+/home/salvatore/Desktop/Projects/Setup/exe/functions.h
+
