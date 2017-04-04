@@ -1,5 +1,5 @@
 #/usr/bin/env bash
-cd ..
+
 # Remove build folder to rebuild
 # Check if it exists
 if [ -d build ]; then

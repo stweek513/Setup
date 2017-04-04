@@ -1,1 +1,0 @@
-/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libLibExtras.so -o libLibExtras.so CMakeFiles/LibExtras.dir/power4.cpp.o CMakeFiles/LibExtras.dir/power5.cpp.o ../square/libLibSquare.a ../cubic/libLibCubic.a 
